@@ -69,7 +69,7 @@ case "$1" in
           ;;
      550) inst_url="https://download.nvidia.com/XFree86/Linux-x86_64/550.107.02/NVIDIA-Linux-x86_64-550.107.02.run"
           ;;
-     555) inst_url="https://download.nvidia.com/XFree86/Linux-x86_64/555.58.02/NVIDIA-Linux-x86_64-555.58.02.run"
+     560) inst_url="https://us.download.nvidia.com/XFree86/Linux-x86_64/560.35.03/NVIDIA-Linux-x86_64-560.35.03.run"
           ;;
   vulkan) inst_url="https://developer.nvidia.com/downloads/vulkan-beta-5504065-linux"
           ;;

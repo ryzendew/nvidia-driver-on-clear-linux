@@ -36,7 +36,7 @@ Next, run the driver installer script. Specifying [latest](https://download.nvid
 |--------|-------------------------------|
 | latest | [latest.txt](https://download.nvidia.com/XFree86/Linux-x86_64/latest.txt) |
 | 550    | 550.107.02 NVIDIA Recommended |
-| 555    | 555.58.02 New Feature Branch  |
+| 560    | 560.35.03 New Feature Branch  |
 | vulkan | 550.40.65 Beta                |
 
 ```bash
@@ -53,6 +53,7 @@ Installing the CUDA Toolkit is optional. The "auto" argument is preferred and wi
 
 | Driver | CUDA Toolkit |
 |--------|--------------|
+|  560   |    12.6.0    |
 |  555   |    12.5.1    |
 |  550   |    12.4.1    |
 |  545   |    12.3.2    |
